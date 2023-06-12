@@ -43,4 +43,6 @@
     <string name="semiadd3">984 Islington</string>
     <string name="rent_s3">$2100</string>
     <string name="back">Back</string>
+    <string name="Help">Help</string>
+    <string name="phone">tel:437833737</string>
 </resources>

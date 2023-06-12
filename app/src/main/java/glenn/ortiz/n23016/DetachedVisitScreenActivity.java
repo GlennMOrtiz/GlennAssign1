@@ -8,8 +8,10 @@ import android.widget.CheckBox;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-public class DetachedVisitScreenActivity extends AppCompatActivity {
+//Name: Glenn Ortiz
+//Student Number: N01523016
+//Class: CENG-0NA
+public class DetachedVisitScreenActivity extends MenuCode {
     private Button paymentButton;
     @Override
     protected void onCreate(Bundle saveInstanceState) {

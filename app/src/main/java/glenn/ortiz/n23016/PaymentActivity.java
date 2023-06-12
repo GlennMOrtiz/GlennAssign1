@@ -3,6 +3,7 @@ package glenn.ortiz.n23016;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -11,7 +12,7 @@ import android.widget.Toast;
 //Glenn Ortiz
 //N01523016
 //CENG 258 0NA
-public class PaymentActivity extends AppCompatActivity{
+public class PaymentActivity extends MenuCode {
     ImageButton imageButton;
     EditText ccName;
     EditText ccNumber;

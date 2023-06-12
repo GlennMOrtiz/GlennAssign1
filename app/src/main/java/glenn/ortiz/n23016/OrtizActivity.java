@@ -7,7 +7,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class OrtizActivity extends AppCompatActivity {
+public class OrtizActivity extends MenuCode {
     private Button enterbutton;
     @Override
     protected void onCreate(Bundle savedInstanceState){

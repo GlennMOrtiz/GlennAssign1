@@ -7,11 +7,10 @@ import android.widget.ImageButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import androidx.annotation.NonNull;
-
-import androidx.appcompat.app.AppCompatActivity;
-
-public class RentActivity extends AppCompatActivity {
+//Name: Glenn Ortiz
+//Student Number: N01523016
+//Class: CENG-0NA
+public class RentActivity extends MenuCode {
     RadioGroup radioGroup;
     ImageButton imageButton;
 
@@ -19,6 +18,7 @@ public class RentActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.rent_activity);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         //RadioGroup
         radioGroup = findViewById(R.id.ortizradiogrouprent);

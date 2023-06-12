@@ -7,8 +7,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.Toast;
-
-public class SemiDetachedVisitScreenActivity extends Activity {
+//Name: Glenn Ortiz
+//Student Number: N01523016
+//Class: CENG-0NA
+public class SemiDetachedVisitScreenActivity extends MenuCode {
     private Button paymentButton;
     @Override
     protected void onCreate(Bundle saveInstanceState) {
