@@ -6,7 +6,9 @@ import android.view.View;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//Name: Glenn Ortiz
+//Student Number: N01523016
+//Class: CENG-0NA
 public class OrtizActivity extends MenuCode {
     private Button enterbutton;
     @Override
