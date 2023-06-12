@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <resources>
+        <string name="app_name">GlennOrtizN01523016</string>
+        <string name="enterbutton">Entrer</string>
+        <string name="apartment_visit_screen">Écran de visite d'appartement</string>
+        <string name="apartment">Appartement</string>
+        <string name="detachedHome">Maison individuelle</string>
+        <string name="semidetachedHome">Maison jumelée</string>
+        <string name="apartment_1">Appartement 1</string>
+        <string name="apartment_2">Appartement 2</string>
+        <string name="apartment_3">Appartement 3</string>
+        <string name="rent_a3">1000$</string>
+        <string name="rent_a2">800$</string>
+        <string name="rent_a1">500$</string>
+        <string name="address1">181, rue Jeffcoat</string>
+        <string name="address2">123, boulevard Kingsview</string>
+        <string name="address3">1234, John Garland</string>
+        <string name="proceed_to_payment">Passer au paiement</string>
+        <string name="HousingCheckboxToast">Veuillez sélectionner une option valide ou revenir à l'écran principal</string>
+        <string name="rentValidation">Veuillez sélectionner un type de logement valide</string>
+        <string name="enter_cardholder_name">Entrer le nom du titulaire de la carte</string>
+        <string name="enter_credit_card_number">Entrer le numéro de carte de crédit</string>
+        <string name="ccNameErrorTxt">La longueur minimale du nom est de 3 caractères</string>
+        <string name="ccNumberErrorText">Le numéro de carte de crédit doit comporter 16 chiffres</string>
+        <string name="succesPaymentTxt">Votre demande est en cours de traitement</string>
+        <string name="detached_visit_screen">Écran de visite de maison individuelle</string>
+        <string name="detached_1">Maison individuelle 1\n</string>
+        <string name="detached_2">Maison individuelle 2\n</string>
+        <string name="detached1">125, boulevard Bayview</string>
+        <string name="rent_d1">5200$</string>
+        <string name="detached_3">Maison individuelle 3</string>
+        <string name="detached2">9517, Milwaukee</string>
+        <string name="rent_d2">9000$</string>
+        <string name="detached3">"984, Toronto "</string>
+        <string name="rent_d3">10000$</string>
+        <string name="semidetached_visit_screen">Écran de visite de maison jumelée</string>
+        <string name="semidetached_1">Maison jumelée 1</string>
+        <string name="semidetached_2">Maison jumelée 2</string>
+        <string name="semidetached_3">Maison jumelée 3</string>
+        <string name="semiadd1">1234, chemin Dixon</string>
+        <string name="rent_s1">1200$</string>
+        <string name="semiadd2">35548, avenue Kipling</string>
+        <string name="rent_s2">2000$</string>
+        <string name="semiadd3">984, Islington</string>
+        <string name="rent_s3">2100$</string>
+        <string name="back">Retour</string>
+        <string name="Help">Aide</string>
+        <string name="phone">tel:437833737</string>
+    </resources>
+</resources>
